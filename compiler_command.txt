@@ -1,0 +1,8 @@
+# Generate Manifest
+# - Linux command
+# - g++ -std=c++17 generate_manifest.cpp -o generate_manifest
+# - Windows command
+# - cl /EHsc /std:c++17 generate_manifest.cpp
+# Generate the generate_manifest.exe
+# Generate the manifest - generate_manifest.exe client manifest.json https://eu2.contabostorage.com/daabf82772a64933a29f62dacfdb6091:hitsukaya-doragon/Nyx2Patcher/client/
+

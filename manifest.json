@@ -1,0 +1,1129 @@
+{
+  "base_url": "https://eu2.contabostorage.com/daabf82772a64933a29f62dacfdb6091:hitsukaya-doragon/Nyx2Patcher/Client/",
+  "files": [
+    {
+      "path": "MSS32.DLL",
+      "size": 349696
+    },
+    {
+      "path": "Nyx2.exe",
+      "size": 3086336
+    },
+    {
+      "path": "SpeedTreeRT.dll",
+      "size": 1806336
+    },
+    {
+      "path": "channel.inf",
+      "size": 5
+    },
+    {
+      "path": "config.exe",
+      "size": 258048
+    },
+    {
+      "path": "dev/shop.cfg",
+      "size": 3
+    },
+    {
+      "path": "dev/shops/11209_1.txt",
+      "size": 5
+    },
+    {
+      "path": "dev/shops/11294_1.txt",
+      "size": 8
+    },
+    {
+      "path": "dev/shops/11299_1.txt",
+      "size": 8
+    },
+    {
+      "path": "dev/shops/11499_1.txt",
+      "size": 6
+    },
+    {
+      "path": "dev/shops/11629_1.txt",
+      "size": 5
+    },
+    {
+      "path": "dev/shops/11639_1.txt",
+      "size": 5
+    },
+    {
+      "path": "dev/shops/11699_1.txt",
+      "size": 9
+    },
+    {
+      "path": "dev/shops/11899_1.txt",
+      "size": 8
+    },
+    {
+      "path": "dev/shops/12039_1.txt",
+      "size": 3
+    },
+    {
+      "path": "dev/shops/12209_1.txt",
+      "size": 6
+    },
+    {
+      "path": "dev/shops/130_1.txt",
+      "size": 1
+    },
+    {
+      "path": "dev/shops/160_1.txt",
+      "size": 5
+    },
+    {
+      "path": "dev/shops/16206_1.txt",
+      "size": 5
+    },
+    {
+      "path": "dev/shops/16_1.txt",
+      "size": 1
+    },
+    {
+      "path": "dev/shops/170_1.txt",
+      "size": 3
+    },
+    {
+      "path": "dev/shops/18050_1.txt",
+      "size": 6
+    },
+    {
+      "path": "dev/shops/184_1.txt",
+      "size": 7
+    },
+    {
+      "path": "dev/shops/189_1.txt",
+      "size": 6
+    },
+    {
+      "path": "dev/shops/18_1.txt",
+      "size": 1
+    },
+    {
+      "path": "dev/shops/19_1.txt",
+      "size": 8
+    },
+    {
+      "path": "dev/shops/2179_1.txt",
+      "size": 4
+    },
+    {
+      "path": "dev/shops/25040_200.txt",
+      "size": 10
+    },
+    {
+      "path": "dev/shops/25041_2.txt",
+      "size": 4
+    },
+    {
+      "path": "dev/shops/25041_51.txt",
+      "size": 5
+    },
+    {
+      "path": "dev/shops/25100_1.txt",
+      "size": 5
+    },
+    {
+      "path": "dev/shops/270_1.txt",
+      "size": 9
+    },
+    {
+      "path": "dev/shops/27987_200.txt",
+      "size": 10
+    },
+    {
+      "path": "dev/shops/27993_200.txt",
+      "size": 10
+    },
+    {
+      "path": "dev/shops/27994_200.txt",
+      "size": 10
+    },
+    {
+      "path": "dev/shops/279_1.txt",
+      "size": 7
+    },
+    {
+      "path": "dev/shops/289_1.txt",
+      "size": 10
+    },
+    {
+      "path": "dev/shops/296_1.txt",
+      "size": 3
+    },
+    {
+      "path": "dev/shops/29_1.txt",
+      "size": 6
+    },
+    {
+      "path": "dev/shops/30006_1.txt",
+      "size": 5
+    },
+    {
+      "path": "dev/shops/30028_1.txt",
+      "size": 4
+    },
+    {
+      "path": "dev/shops/30227_1.txt",
+      "size": 6
+    },
+    {
+      "path": "dev/shops/3159_1.txt",
+      "size": 4
+    },
+    {
+      "path": "dev/shops/50126_177.txt",
+      "size": 5
+    },
+    {
+      "path": "dev/shops/50127_193.txt",
+      "size": 4
+    },
+    {
+      "path": "dev/shops/50513_200.txt",
+      "size": 8
+    },
+    {
+      "path": "dev/shops/50513_3.txt",
+      "size": 6
+    },
+    {
+      "path": "dev/shops/5129_1.txt",
+      "size": 4
+    },
+    {
+      "path": "dev/shops/5139_1.txt",
+      "size": 4
+    },
+    {
+      "path": "dev/shops/70007_1.txt",
+      "size": 3
+    },
+    {
+      "path": "dev/shops/70024_100.txt",
+      "size": 3
+    },
+    {
+      "path": "dev/shops/70102_200.txt",
+      "size": 10
+    },
+    {
+      "path": "dev/shops/80007_200.txt",
+      "size": 6
+    },
+    {
+      "path": "dev/switchbot.pkl",
+      "size": 281
+    },
+    {
+      "path": "devil.dll",
+      "size": 269312
+    },
+    {
+      "path": "granny2.dll",
+      "size": 672256
+    },
+    {
+      "path": "lib/UserDict.pyc",
+      "size": 9000
+    },
+    {
+      "path": "lib/__future__.pyc",
+      "size": 4431
+    },
+    {
+      "path": "lib/_abcoll.pyc",
+      "size": 22339
+    },
+    {
+      "path": "lib/_locale.pyc",
+      "size": 49841
+    },
+    {
+      "path": "lib/_weakrefset.pyc",
+      "size": 10490
+    },
+    {
+      "path": "lib/abc.pyc",
+      "size": 6187
+    },
+    {
+      "path": "lib/bisect.pyc",
+      "size": 3236
+    },
+    {
+      "path": "lib/codecs.pyc",
+      "size": 36978
+    },
+    {
+      "path": "lib/collections.pyc",
+      "size": 26172
+    },
+    {
+      "path": "lib/copy.pyc",
+      "size": 13208
+    },
+    {
+      "path": "lib/copy_reg.pyc",
+      "size": 5157
+    },
+    {
+      "path": "lib/encodings/__init__.pyc",
+      "size": 4510
+    },
+    {
+      "path": "lib/encodings/aliases.pyc",
+      "size": 8803
+    },
+    {
+      "path": "lib/encodings/cp949.pyc",
+      "size": 2009
+    },
+    {
+      "path": "lib/fnmatch.pyc",
+      "size": 3732
+    },
+    {
+      "path": "lib/functools.pyc",
+      "size": 6193
+    },
+    {
+      "path": "lib/genericpath.pyc",
+      "size": 3303
+    },
+    {
+      "path": "lib/heapq.pyc",
+      "size": 13896
+    },
+    {
+      "path": "lib/keyword.pyc",
+      "size": 2169
+    },
+    {
+      "path": "lib/linecache.pyc",
+      "size": 3235
+    },
+    {
+      "path": "lib/locale.pyc",
+      "size": 49841
+    },
+    {
+      "path": "lib/ntpath.pyc",
+      "size": 11961
+    },
+    {
+      "path": "lib/os.pyc",
+      "size": 25769
+    },
+    {
+      "path": "lib/pyexpat.pyd",
+      "size": 127488
+    },
+    {
+      "path": "lib/pyexpat_d.pdb",
+      "size": 560128
+    },
+    {
+      "path": "lib/pyexpat_d.pyd",
+      "size": 194560
+    },
+    {
+      "path": "lib/re.pyc",
+      "size": 13178
+    },
+    {
+      "path": "lib/shutil.pyc",
+      "size": 19273
+    },
+    {
+      "path": "lib/site.pyc",
+      "size": 20019
+    },
+    {
+      "path": "lib/sre_compile.pyc",
+      "size": 11107
+    },
+    {
+      "path": "lib/sre_constants.pyc",
+      "size": 6108
+    },
+    {
+      "path": "lib/sre_parse.pyc",
+      "size": 19244
+    },
+    {
+      "path": "lib/stat.pyc",
+      "size": 2791
+    },
+    {
+      "path": "lib/string.pyc",
+      "size": 13514
+    },
+    {
+      "path": "lib/sysconfig.pyc",
+      "size": 17571
+    },
+    {
+      "path": "lib/traceback.pyc",
+      "size": 11703
+    },
+    {
+      "path": "lib/types.pyc",
+      "size": 2530
+    },
+    {
+      "path": "lib/warnings.pyc",
+      "size": 13232
+    },
+    {
+      "path": "lib/weakref.pyc",
+      "size": 16037
+    },
+    {
+      "path": "lib/xml/__init__.pyc",
+      "size": 1117
+    },
+    {
+      "path": "lib/xml/dom/__init__.pyc",
+      "size": 7337
+    },
+    {
+      "path": "lib/xml/dom/domreg.pyc",
+      "size": 3506
+    },
+    {
+      "path": "lib/xml/dom/expatbuilder.pyc",
+      "size": 36698
+    },
+    {
+      "path": "lib/xml/dom/minicompat.pyc",
+      "size": 4144
+    },
+    {
+      "path": "lib/xml/dom/minidom.pyc",
+      "size": 74704
+    },
+    {
+      "path": "lib/xml/dom/nodefilter.pyc",
+      "size": 1243
+    },
+    {
+      "path": "lib/xml/dom/xmlbuilder.pyc",
+      "size": 18659
+    },
+    {
+      "path": "lib/xml/parsers/__init__.pyc",
+      "size": 353
+    },
+    {
+      "path": "lib/xml/parsers/expat.pyc",
+      "size": 326
+    },
+    {
+      "path": "locale.cfg",
+      "size": 13
+    },
+    {
+      "path": "mark/10_0.tga",
+      "size": 1049126
+    },
+    {
+      "path": "metin2.cfg",
+      "size": 512
+    },
+    {
+      "path": "miles/mss32.dll",
+      "size": 349696
+    },
+    {
+      "path": "miles/mssa3d.m3d",
+      "size": 83456
+    },
+    {
+      "path": "miles/mssds3d.m3d",
+      "size": 70656
+    },
+    {
+      "path": "miles/mssdsp.flt",
+      "size": 93696
+    },
+    {
+      "path": "miles/mssdx7.m3d",
+      "size": 80896
+    },
+    {
+      "path": "miles/msseax.m3d",
+      "size": 103424
+    },
+    {
+      "path": "miles/mssmp3.asi",
+      "size": 125952
+    },
+    {
+      "path": "miles/mssrsx.m3d",
+      "size": 354816
+    },
+    {
+      "path": "miles/msssoft.m3d",
+      "size": 67072
+    },
+    {
+      "path": "miles/mssvoice.asi",
+      "size": 197120
+    },
+    {
+      "path": "mouse.cfg",
+      "size": 3
+    },
+    {
+      "path": "pack/BGM.eix",
+      "size": 1064
+    },
+    {
+      "path": "pack/BGM.epk",
+      "size": 83936136
+    },
+    {
+      "path": "pack/ETC.eix",
+      "size": 38048
+    },
+    {
+      "path": "pack/ETC.epk",
+      "size": 37384962
+    },
+    {
+      "path": "pack/Effect.eix",
+      "size": 30456
+    },
+    {
+      "path": "pack/Effect.epk",
+      "size": 19271124
+    },
+    {
+      "path": "pack/Index",
+      "size": 3504
+    },
+    {
+      "path": "pack/Monster.eix",
+      "size": 89196
+    },
+    {
+      "path": "pack/Monster.epk",
+      "size": 65224960
+    },
+    {
+      "path": "pack/NPC.eix",
+      "size": 24708
+    },
+    {
+      "path": "pack/NPC.epk",
+      "size": 21501440
+    },
+    {
+      "path": "pack/PC.eix",
+      "size": 79840
+    },
+    {
+      "path": "pack/PC.epk",
+      "size": 67204864
+    },
+    {
+      "path": "pack/Property.eix",
+      "size": 42496
+    },
+    {
+      "path": "pack/Property.epk",
+      "size": 225248
+    },
+    {
+      "path": "pack/Sound.eix",
+      "size": 32100
+    },
+    {
+      "path": "pack/Sound.epk",
+      "size": 50380544
+    },
+    {
+      "path": "pack/Terrain.eix",
+      "size": 9004
+    },
+    {
+      "path": "pack/Terrain.epk",
+      "size": 10716416
+    },
+    {
+      "path": "pack/Tree.eix",
+      "size": 4588
+    },
+    {
+      "path": "pack/Tree.epk",
+      "size": 3719424
+    },
+    {
+      "path": "pack/Zone.eix",
+      "size": 96128
+    },
+    {
+      "path": "pack/Zone.epk",
+      "size": 144202646
+    },
+    {
+      "path": "pack/guild.eix",
+      "size": 6292
+    },
+    {
+      "path": "pack/guild.epk",
+      "size": 6400512
+    },
+    {
+      "path": "pack/icon.eix",
+      "size": 52240
+    },
+    {
+      "path": "pack/icon.epk",
+      "size": 10276891
+    },
+    {
+      "path": "pack/indoors.eix",
+      "size": 12504
+    },
+    {
+      "path": "pack/indoors.epk",
+      "size": 17638635
+    },
+    {
+      "path": "pack/item.eix",
+      "size": 53404
+    },
+    {
+      "path": "pack/item.epk",
+      "size": 5949440
+    },
+    {
+      "path": "pack/metin2_patches.eix",
+      "size": 362304
+    },
+    {
+      "path": "pack/metin2_patches.epk",
+      "size": 629668116
+    },
+    {
+      "path": "pack/monster2.eix",
+      "size": 42668
+    },
+    {
+      "path": "pack/monster2.epk",
+      "size": 31736832
+    },
+    {
+      "path": "pack/npc2.eix",
+      "size": 524
+    },
+    {
+      "path": "pack/npc2.epk",
+      "size": 301568
+    },
+    {
+      "path": "pack/outdoors.eix",
+      "size": 94416
+    },
+    {
+      "path": "pack/outdoors.epk",
+      "size": 137265326
+    },
+    {
+      "path": "pack/pc2.eix",
+      "size": 55644
+    },
+    {
+      "path": "pack/pc2.epk",
+      "size": 62856192
+    },
+    {
+      "path": "pack/root.eix",
+      "size": 6912
+    },
+    {
+      "path": "pack/root.epk",
+      "size": 2367754
+    },
+    {
+      "path": "pack/rrlocales.eix",
+      "size": 94264
+    },
+    {
+      "path": "pack/rrlocales.epk",
+      "size": 158142571
+    },
+    {
+      "path": "pack/rrupdate1_i.eix",
+      "size": 2128
+    },
+    {
+      "path": "pack/rrupdate1_i.epk",
+      "size": 298591
+    },
+    {
+      "path": "pack/rrupdate2_yw.eix",
+      "size": 33520
+    },
+    {
+      "path": "pack/rrupdate2_yw.epk",
+      "size": 39724499
+    },
+    {
+      "path": "pack/rrupdate2_yw_old.eix",
+      "size": 32824
+    },
+    {
+      "path": "pack/rrupdate2_yw_old.epk",
+      "size": 39743507
+    },
+    {
+      "path": "pack/season1-2_patch1-2.eix",
+      "size": 363080
+    },
+    {
+      "path": "pack/season1-2_patch1-2.epk",
+      "size": 638515870
+    },
+    {
+      "path": "pack/sound2.eix",
+      "size": 36732
+    },
+    {
+      "path": "pack/sound2.epk",
+      "size": 31777280
+    },
+    {
+      "path": "pack/sound_m.eix",
+      "size": 36660
+    },
+    {
+      "path": "pack/sound_m.epk",
+      "size": 378368
+    },
+    {
+      "path": "pack/textureset.eix",
+      "size": 1340
+    },
+    {
+      "path": "pack/textureset.epk",
+      "size": 21248
+    },
+    {
+      "path": "pack/uiloading.eix",
+      "size": 1704
+    },
+    {
+      "path": "pack/uiloading.epk",
+      "size": 10620050
+    },
+    {
+      "path": "python27.dll",
+      "size": 845868
+    },
+    {
+      "path": "upload/1.jpg",
+      "size": 9239
+    },
+    {
+      "path": "upload/10.jpg",
+      "size": 9252
+    },
+    {
+      "path": "upload/100.jpg",
+      "size": 9257
+    },
+    {
+      "path": "upload/11.jpg",
+      "size": 9213
+    },
+    {
+      "path": "upload/12.jpg",
+      "size": 9311
+    },
+    {
+      "path": "upload/13.jpg",
+      "size": 9269
+    },
+    {
+      "path": "upload/14.jpg",
+      "size": 9196
+    },
+    {
+      "path": "upload/15.jpg",
+      "size": 9263
+    },
+    {
+      "path": "upload/16.jpg",
+      "size": 9076
+    },
+    {
+      "path": "upload/17.jpg",
+      "size": 9239
+    },
+    {
+      "path": "upload/18.jpg",
+      "size": 9289
+    },
+    {
+      "path": "upload/19.jpg",
+      "size": 9252
+    },
+    {
+      "path": "upload/2.jpg",
+      "size": 9241
+    },
+    {
+      "path": "upload/20.jpg",
+      "size": 9188
+    },
+    {
+      "path": "upload/21.jpg",
+      "size": 9255
+    },
+    {
+      "path": "upload/22.jpg",
+      "size": 9244
+    },
+    {
+      "path": "upload/23.jpg",
+      "size": 9300
+    },
+    {
+      "path": "upload/24.jpg",
+      "size": 9197
+    },
+    {
+      "path": "upload/25.jpg",
+      "size": 9308
+    },
+    {
+      "path": "upload/26.jpg",
+      "size": 9152
+    },
+    {
+      "path": "upload/27.jpg",
+      "size": 9110
+    },
+    {
+      "path": "upload/28.jpg",
+      "size": 9183
+    },
+    {
+      "path": "upload/29.jpg",
+      "size": 9284
+    },
+    {
+      "path": "upload/3.jpg",
+      "size": 9232
+    },
+    {
+      "path": "upload/30.jpg",
+      "size": 9304
+    },
+    {
+      "path": "upload/31.jpg",
+      "size": 9311
+    },
+    {
+      "path": "upload/32.jpg",
+      "size": 9272
+    },
+    {
+      "path": "upload/33.jpg",
+      "size": 9227
+    },
+    {
+      "path": "upload/34.jpg",
+      "size": 9259
+    },
+    {
+      "path": "upload/35.jpg",
+      "size": 9231
+    },
+    {
+      "path": "upload/36.jpg",
+      "size": 9222
+    },
+    {
+      "path": "upload/37.jpg",
+      "size": 9252
+    },
+    {
+      "path": "upload/38.jpg",
+      "size": 9234
+    },
+    {
+      "path": "upload/39.jpg",
+      "size": 9227
+    },
+    {
+      "path": "upload/4.jpg",
+      "size": 9206
+    },
+    {
+      "path": "upload/40.jpg",
+      "size": 9264
+    },
+    {
+      "path": "upload/41.jpg",
+      "size": 9297
+    },
+    {
+      "path": "upload/42.jpg",
+      "size": 9244
+    },
+    {
+      "path": "upload/43.jpg",
+      "size": 9276
+    },
+    {
+      "path": "upload/44.jpg",
+      "size": 9345
+    },
+    {
+      "path": "upload/45.jpg",
+      "size": 9295
+    },
+    {
+      "path": "upload/46.jpg",
+      "size": 9271
+    },
+    {
+      "path": "upload/47.jpg",
+      "size": 9273
+    },
+    {
+      "path": "upload/48.jpg",
+      "size": 9292
+    },
+    {
+      "path": "upload/49.jpg",
+      "size": 9230
+    },
+    {
+      "path": "upload/5.jpg",
+      "size": 9286
+    },
+    {
+      "path": "upload/50.jpg",
+      "size": 9234
+    },
+    {
+      "path": "upload/51.jpg",
+      "size": 9274
+    },
+    {
+      "path": "upload/52.jpg",
+      "size": 9316
+    },
+    {
+      "path": "upload/53.jpg",
+      "size": 9293
+    },
+    {
+      "path": "upload/54.jpg",
+      "size": 9251
+    },
+    {
+      "path": "upload/55.jpg",
+      "size": 9172
+    },
+    {
+      "path": "upload/56.jpg",
+      "size": 9263
+    },
+    {
+      "path": "upload/57.jpg",
+      "size": 9261
+    },
+    {
+      "path": "upload/58.jpg",
+      "size": 9272
+    },
+    {
+      "path": "upload/59.jpg",
+      "size": 9250
+    },
+    {
+      "path": "upload/6.jpg",
+      "size": 9251
+    },
+    {
+      "path": "upload/60.jpg",
+      "size": 9270
+    },
+    {
+      "path": "upload/61.jpg",
+      "size": 9246
+    },
+    {
+      "path": "upload/62.jpg",
+      "size": 9240
+    },
+    {
+      "path": "upload/63.jpg",
+      "size": 9260
+    },
+    {
+      "path": "upload/64.jpg",
+      "size": 9250
+    },
+    {
+      "path": "upload/65.jpg",
+      "size": 9272
+    },
+    {
+      "path": "upload/66.jpg",
+      "size": 9293
+    },
+    {
+      "path": "upload/67.jpg",
+      "size": 9228
+    },
+    {
+      "path": "upload/68.jpg",
+      "size": 9245
+    },
+    {
+      "path": "upload/69.jpg",
+      "size": 9249
+    },
+    {
+      "path": "upload/7.jpg",
+      "size": 9227
+    },
+    {
+      "path": "upload/70.jpg",
+      "size": 9211
+    },
+    {
+      "path": "upload/71.jpg",
+      "size": 9224
+    },
+    {
+      "path": "upload/72.jpg",
+      "size": 9229
+    },
+    {
+      "path": "upload/73.jpg",
+      "size": 9293
+    },
+    {
+      "path": "upload/74.jpg",
+      "size": 9246
+    },
+    {
+      "path": "upload/75.jpg",
+      "size": 9225
+    },
+    {
+      "path": "upload/76.jpg",
+      "size": 9272
+    },
+    {
+      "path": "upload/77.jpg",
+      "size": 9185
+    },
+    {
+      "path": "upload/78.jpg",
+      "size": 9220
+    },
+    {
+      "path": "upload/79.jpg",
+      "size": 9291
+    },
+    {
+      "path": "upload/8.jpg",
+      "size": 9246
+    },
+    {
+      "path": "upload/80.jpg",
+      "size": 9243
+    },
+    {
+      "path": "upload/81.jpg",
+      "size": 9245
+    },
+    {
+      "path": "upload/82.jpg",
+      "size": 9255
+    },
+    {
+      "path": "upload/83.jpg",
+      "size": 9293
+    },
+    {
+      "path": "upload/84.jpg",
+      "size": 9283
+    },
+    {
+      "path": "upload/85.jpg",
+      "size": 9223
+    },
+    {
+      "path": "upload/86.jpg",
+      "size": 9272
+    },
+    {
+      "path": "upload/87.jpg",
+      "size": 9305
+    },
+    {
+      "path": "upload/88.jpg",
+      "size": 9286
+    },
+    {
+      "path": "upload/89.jpg",
+      "size": 9284
+    },
+    {
+      "path": "upload/9.jpg",
+      "size": 9246
+    },
+    {
+      "path": "upload/90.jpg",
+      "size": 9225
+    },
+    {
+      "path": "upload/91.jpg",
+      "size": 9246
+    },
+    {
+      "path": "upload/92.jpg",
+      "size": 9268
+    },
+    {
+      "path": "upload/93.jpg",
+      "size": 9297
+    },
+    {
+      "path": "upload/94.jpg",
+      "size": 9216
+    },
+    {
+      "path": "upload/95.jpg",
+      "size": 9230
+    },
+    {
+      "path": "upload/96.jpg",
+      "size": 9234
+    },
+    {
+      "path": "upload/97.jpg",
+      "size": 9271
+    },
+    {
+      "path": "upload/98.jpg",
+      "size": 9265
+    },
+    {
+      "path": "upload/99.jpg",
+      "size": 9231
+    }
+  ]
+}
