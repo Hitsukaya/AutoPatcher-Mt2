@@ -76,5 +76,5 @@ Let the patcher sync files automatically
 ### Setup
 
 ```bash
-git clone https://github.com/Hitsukaya/nyx2-launcher.git
-cd nyx2-launcher
+git clone [https://github.com/Hitsukaya/nyx2-launcher.git](https://github.com/Hitsukaya/AutoPatcher-Mt2.git)
+cd AutoPatcher-Mt2
