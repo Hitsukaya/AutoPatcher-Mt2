@@ -1,9 +1,16 @@
 # Nyx2 Launcher
 
 > Lightweight, secure and modern game launcher & autopatcher  
-> Built with **C++17**, native Windows APIs and clean architecture
+> Built with **C++17** **C++ 2020**, native Windows APIs and clean architecture
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-17-blue.svg">
+  <img src="https://img.shields.io/badge/Platform-Windows-blue">
+  <img src="https://img.shields.io/badge/Build-Release-success">
+  <img src="https://img.shields.io/badge/Security-0%2F67%20VT%20Clean-brightgreen">
+  <img src="https://img.shields.io/badge/License-Free-lightgrey">
+</p>
 
 ## Overview
 
@@ -50,6 +57,12 @@ Unlike many launchers that rely on heavy frameworks or questionable dependencies
 
 ---
 
+Usage
+Configure your manifest.json
+Launch executable
+Let the patcher sync files automatically
+
+---
 ## Build Instructions
 
 ### Requirements
