@@ -53,7 +53,11 @@ Unlike many launchers that rely on heavy frameworks or questionable dependencies
 
 ## Preview
 
-> *(Add screenshots here)*
+![Preview](images/image_2026-04-06_155559047.png)
+
+![Preview](images/image_2026-04-06_155924253.png)
+
+![Preview](images/image_2026-04-06_162233396.png)
 
 ---
 
